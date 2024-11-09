@@ -10,6 +10,7 @@
 
 #include "Poco/File.h"
 #include "Poco/Net/MediaType.h"
+#include <memory>
 #include "ofTypes.h"
 
 
